@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Keep (◍°∇°◍)ﾉﾞ</title>
+    <link>http://xxx.xxx/categories/</link>
+    <description>Recent content in Categories on Keep (◍°∇°◍)ﾉﾞ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 23 Feb 2023 17:57:55 +0800</lastBuildDate><atom:link href="http://xxx.xxx/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用帮助</title>
+      <link>http://xxx.xxx/categories/%E4%BD%BF%E7%94%A8%E5%B8%AE%E5%8A%A9/</link>
+      <pubDate>Thu, 23 Feb 2023 17:57:55 +0800</pubDate>
+      
+      <guid>http://xxx.xxx/categories/%E4%BD%BF%E7%94%A8%E5%B8%AE%E5%8A%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer</title>
+      <link>http://xxx.xxx/categories/computer/</link>
+      <pubDate>Wed, 01 Jun 2022 12:30:00 +0800</pubDate>
+      
+      <guid>http://xxx.xxx/categories/computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k8s</title>
+      <link>http://xxx.xxx/categories/k8s/</link>
+      <pubDate>Fri, 27 May 2022 09:50:00 +0800</pubDate>
+      
+      <guid>http://xxx.xxx/categories/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OS</title>
+      <link>http://xxx.xxx/categories/os/</link>
+      <pubDate>Fri, 13 May 2022 10:10:11 +0800</pubDate>
+      
+      <guid>http://xxx.xxx/categories/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://xxx.xxx/categories/java/</link>
+      <pubDate>Fri, 11 Mar 2022 13:26:11 +0800</pubDate>
+      
+      <guid>http://xxx.xxx/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>算法</title>
+      <link>http://xxx.xxx/categories/%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Wed, 28 Nov 2018 10:34:03 +0800</pubDate>
+      
+      <guid>http://xxx.xxx/categories/%E7%AE%97%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>http://xxx.xxx/categories/php/</link>
+      <pubDate>Wed, 13 Jun 2018 12:30:34 +0800</pubDate>
+      
+      <guid>http://xxx.xxx/categories/php/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

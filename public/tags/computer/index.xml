@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer on Keep (◍°∇°◍)ﾉﾞ</title>
+    <link>http://xxx.xxx/tags/computer/</link>
+    <description>Recent content in computer on Keep (◍°∇°◍)ﾉﾞ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jun 2022 12:30:00 +0800</lastBuildDate><atom:link href="http://xxx.xxx/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>校验码</title>
+      <link>http://xxx.xxx/posts/computer/checkcode/</link>
+      <pubDate>Wed, 01 Jun 2022 12:30:00 +0800</pubDate>
+      
+      <guid>http://xxx.xxx/posts/computer/checkcode/</guid>
+      <description>校验码 信息保存在电容中，如果遇到电磁环境干扰，会导致电容的充放电或触发器的翻转，那么存在存储器的信息</description>
+    </item>
+    
+    <item>
+      <title>计算机基础</title>
+      <link>http://xxx.xxx/posts/computer/constructor-instructor/</link>
+      <pubDate>Fri, 20 May 2022 15:30:00 +0800</pubDate>
+      
+      <guid>http://xxx.xxx/posts/computer/constructor-instructor/</guid>
+      <description>计算机基础 1.计算机组成 控制器： 指挥程序运行 运算器： 进行算术运算、逻辑运算 存储器： 存放程序和数据 输入</description>
+    </item>
+    
+  </channel>
+</rss>
