@@ -2,3 +2,4 @@ config.toml
 .idea/
 .hugo_build.lock
 content/posts
+public/

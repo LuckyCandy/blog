@@ -5,6 +5,7 @@ date: {{ .Date }}
 lastmod: "2022-10-01"
 draft: true
 description: "我是文章的描述"
+summary: "这是摘要"
 image: "/images/book.jpg"
 tags: ["Hugo"]
 categories: ["主题文档"]
