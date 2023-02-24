@@ -1,4 +1,4 @@
-config.toml
+/config.toml
 .idea/
 .hugo_build.lock
 content/posts
